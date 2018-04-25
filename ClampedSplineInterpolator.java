@@ -43,7 +43,7 @@ import org.apache.commons.math3.util.MathArrays;
  *  "match up" at the knot points, as do their first and second derivatives).</li>
  * </ol>
  * <p>
- * The cubic spline interpolation algorithm implemented is as described in R.L. Burden, J.D. Faires,
+ * The clamped spline interpolation algorithm implemented is as described in R.L. Burden, J.D. Faires,
  * <u>Numerical Analysis</u>, 9th Ed., 2010, PWS-Kent, ISBN-13: 978-0-538-73351-9 ISBN-10: 0-538-73351-9, pp 155-156.
  * </p>
  *
